@@ -1,0 +1,17 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+beautifulsoup4
+requests
+newsapi-python
+python-dotenv
+Flask-Login
+sqlalchemy
+sqlite3
+joblib
+tweepy
+matplotlib
+seaborn
+bcrypt 
